@@ -1,6 +1,6 @@
 # Bernardo Tomaz
 
-Meu nome é Bernardo, tenho 20 anos, sou natural de Niterói e estou cursando Sistemas de Informação na UFF. Atualmente estou aprendendo desenvolvimento de software, com foco em Python, JavaScript e desenvolvimento web e experimentando novas ferramentas para ampliar meus conhecimentos em programação.
+Meu nome é Bernardo, tenho 20 anos, sou natural de Niterói e curso Sistemas de Informação na UFF. Atualmente, estou aprendendo desenvolvimento de software, explorando tecnologias como Python, JavaScript e desenvolvimento web, além de experimentar novas ferramentas para ampliar meus conhecimentos em programação.
 
 <p align="left">
     <a href="https://github.com/bernardotomazz?tab=repositories&sort=stargazers">
