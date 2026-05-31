@@ -14,7 +14,7 @@ Meu nome é Bernardo, tenho 20 anos, sou natural de Niterói e curso Sistemas de
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/bernardotomazz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/bernardotomazz?style=for-the-badge"
         />
     </a>
 </p>
